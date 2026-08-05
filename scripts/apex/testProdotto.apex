@@ -25,4 +25,4 @@ for(Product2 p : nuoviProdotti){
     System.debug('ID: ' + p.Id + ' | Nome: ' + p.Name + ' | Codice: ' + p.ProductCode);
 }
 
-//ProdottoService.deleteProdotto(4);
+ProdottoService.deleteProdotto(5);
